@@ -1,0 +1,6 @@
+{
+  "name": "Apex Darwin GP",
+  "description": "Simulatore di corse automobilistiche e Formula 1 con editor di circuiti disegnabili, personalizzazione avanzata motore e aerodinamica, sistema danni dettagliato, multiplayer online e mercato componenti unici.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
